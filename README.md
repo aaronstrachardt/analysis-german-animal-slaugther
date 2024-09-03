@@ -5,7 +5,7 @@ In Germany, the tracking of slaughter statistics is crucial for understanding th
 
 ## Installation
 To install and set up the project, follow these steps:
-1. Clone the project repository from GitLab: `git clone https://gitup.uni-potsdam.de/strachardt1/analysis-german-animal-slaugther`
+1. Clone the project repository from GitHub: `git clone https://github.com/aaronstrachardt/analysis-german-animal-slaugther`
 2. Install the required dependencies using pip: `pip install -r requirements.txt`
 3. Ensure that Jupyter Notebook is installed to run the provided notebook.
 
@@ -28,5 +28,5 @@ If you use this project or find it helpful, please consider citing it as describ
   - Visualization and Data Analysis
 
 ## Contact Information
-For any inquiries or assistance, please contact [strachardt1@uni-potsdam.de](mailto:strachardt1@uni-potsdam.de) or open an issue on GitLab.
+For any inquiries or assistance, please contact [strachardt1@uni-potsdam.de](mailto:strachardt1@uni-potsdam.de) or open an issue on GitHub.
 
